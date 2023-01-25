@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/din/git_tutorial/q2/devel -DCMAKE_INSTALL_PREFIX=/home/din/git_tutorial/q2/install -G Unix Makefiles
